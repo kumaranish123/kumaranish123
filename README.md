@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India .</h3>
 
+- 👨‍💻 All of my projects are available at [https://anish1-portfolio.netlify.app/](https://anish1-portfolio.netlify.app/)
+
+- 📫 How to reach me **21je0113@iitism.ac.in ,anisraj9128@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/kranis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kranis" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kranis10-03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kranis10-03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kraig1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kraig1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anisraj9128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anisraj9128" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
