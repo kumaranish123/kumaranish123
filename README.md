@@ -1,11 +1,11 @@
 # 👋 Hi! I'm Anish Kumar
 
 🎓 Final year B.Tech student in Electrical Engineering at IIT Dhanbad . 
-🔐 Passionate about Web Developement ,Machine Learning and AI,, and solving complex problems with data.
+🔐 Passionate about Web Developement ,Machine Learning and AI, and solving complex problems with data.
 
 ## 💻 Skills
 
-- **Programming**: Python, C++, Java
+- **Programming**: Python, C++
 - **Data Science**: NumPy, Pandas, Scikit-Learn, TensorFlow, 
 - **Web Dev**: HTML, CSS, JavaScript, Flask
 - **Database**: MySQL, MongoDB
@@ -16,7 +16,7 @@
 - **NGO-SHS**:  | 
   - Tech: HTML ,CSS ,JavaScript ,  MongoDB,
 - **Tour-India**: Travel India| 
-  - Tech:  HTML ,CSS ,JavaScript ,  MongoDB,
+  - Tech:  HTML ,CSS ,JavaScript , 
 
 ## 🎯 Learning
 
@@ -29,8 +29,7 @@
 
 ## 📫 Connect with Me **21je0113@iitism.ac.in ,anisraj9128@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://www.codechef.com/users/kranis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kranis" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kranis10-03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kranis10-03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kraig1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kraig1" height="30" width="40" /></a>
