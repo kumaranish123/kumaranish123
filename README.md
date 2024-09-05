@@ -14,13 +14,13 @@
 ## 🚀 Projects
 
 - **NGO-SHS**:  | 
-  - Tech: HTML ,CSS ,JavaScript ,  MongoDB,
+  - Tech: HTML ,CSS ,JavaScript ,  MongoDB.
 - **Tour-India**: Travel India| 
-  - Tech:  HTML ,CSS ,JavaScript , 
+  - Tech:  HTML ,CSS ,JavaScript. 
 
 ## 🎯 Learning
 
--  Machine Learning, Deep Learning,
+-  Machine Learning, Deep Learning.
 
 
 
