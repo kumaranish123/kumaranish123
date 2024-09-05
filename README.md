@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Anish Kumar
 
-🎓 Final year B.Tech student in Electrical Engineering at IIT Dhanbad . 
+🎓 Final year B.Tech student in Electrical Engineering at IIT Dhanbad 
 🔐 Passionate about Web Developement ,Machine Learning and AI, and solving complex problems with data.
 
 ## 💻 Skills
