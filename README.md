@@ -1,44 +1,33 @@
-# 👋 Hi! I'm Harsh Raj
+# 👋 Hi! I'm Anish Kumar
 
-🎓 Final year B.Tech student in Data Science and AI at IIT Guwahati  
-🔐 Passionate about Data Science and AI, and solving complex problems with data.
+🎓 Final year B.Tech student in Electrical Engineering at IIT Dhanbad . 
+🔐 Passionate about Web Developement ,Machine Learning and AI,, and solving complex problems with data.
 
 ## 💻 Skills
 
 - **Programming**: Python, C++, Java
-- **Data Science**: NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch
+- **Data Science**: NumPy, Pandas, Scikit-Learn, TensorFlow, 
 - **Web Dev**: HTML, CSS, JavaScript, Flask
 - **Database**: MySQL, MongoDB
 - **Security**: Cryptography, Ethical Hacking
 
 ## 🚀 Projects
 
-- **GreenSense**: Smart Plant Monitoring System | [IIT Guwahati]
-  - Tech: Python, MQTT, MongoDB, Machine Learning
-- **VistaVibe**: TV Shows Recommender | [IIT Guwahati]
-  - Tech: Python, Pandas, Scikit-Learn, Firebase, HTML, CSS
+- **NGO-SHS**:  | 
+  - Tech: HTML ,CSS ,JavaScript ,  MongoDB,
+- **Tour-India**: Travel India| 
+  - Tech:  HTML ,CSS ,JavaScript ,  MongoDB,
 
 ## 🎯 Learning
 
-- Advanced Machine Learning, Deep Learning, Q-Learning
-
-## 📫 Connect with Me
-
-- Email: [harsh.raj@iitg.ac.in](mailto:harsh.raj@iitg.ac.in)  
-- [LinkedIn](https://www.linkedin.com/in/harsh-raj-13b100241/) | [GitHub](https://github.com/harshrajshs)
+-  Machine Learning, Deep Learning,
 
 
 
-
-
-
-
-<h1 align="center">Hi 👋, I'm Anish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India .</h3>
 
 - 👨‍💻 All of my projects are available at [https://anish1-portfolio.netlify.app/](https://anish1-portfolio.netlify.app/)
 
-- 📫 How to reach me **21je0113@iitism.ac.in ,anisraj9128@gmail.com**
+## 📫 Connect with Me **21je0113@iitism.ac.in ,anisraj9128@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
