@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Anish Kumar
 
-🎓 Final year B.Tech student in Electrical Engineering at IIT Dhanbad
+🎓 B.Tech 2025 Graduate student in Electrical Engineering from IIT Dhanbad
 🔐 Passionate about web development, data structures and algorithms, machine learning and AI, and solving complex problems with data.
 
 ## 💻 Skills
@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anish1-portfolio.netlify.app/](https://anish1-portfolio.netlify.app/)
 
-## 📫 Connect with Me **21je0113@iitism.ac.in ,anisraj9128@gmail.com**
+## 📫 Connect with Me anisraj9128@gmail.com**
 
 
 <a href="https://www.codechef.com/users/kranis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kranis" height="30" width="40" /></a>
